@@ -9,7 +9,7 @@ I am Mohamed Mansouri, a 3rd-year Computer Science student passionate about prog
 - Databases: MySQL
 
 ## Education
-- Bachelor's in Computer Science (3rd Year)** – University of science and technology Houari Boumediene (USTHB)
+- Bachelor's in Computer Science (3rd Year) – University of science and technology Houari Boumediene (USTHB)
 
 ## Contact
 - GitHub: https://github.com/Mohameedmn
