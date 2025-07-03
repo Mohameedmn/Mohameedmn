@@ -4,8 +4,9 @@
 I am Mohamed Mansouri, a 3rd-year Computer Science student passionate about programming and desktop application development. I enjoy solving complex problems and creating efficient solutions using various programming languages, including C, C++, and C#. Additionally, I am developing skills in database management with MySQL.
 
 ## Skills
-- Programming: C, C++, C#
+- Programming: C, C++, C# , php , laravel , dart ; flutter
 - Desktop Application Development**: Building functional applications with user interfaces across different platforms
+- Mobile Application Development**: Building functional applications with Flutter and laravel framework
 - Databases: MySQL
 
 ## Education
