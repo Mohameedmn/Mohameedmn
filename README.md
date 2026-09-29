@@ -1,24 +1,65 @@
-# Mohamed Mansouri
+# Mohamed Mansouri – Personal Portfolio
 
-## About Me
-I am Mohamed Mansouri, a 3rd-year Computer Science student passionate about programming and desktop application development. I enjoy solving complex problems and creating efficient solutions using various programming languages, including C, C++, and C#. Additionally, I am developing skills in database management with MySQL.
+Personal portfolio website of **Mohamed Mansouri**, Master's student in Intelligent Computer Systems at USTHB (Algiers, Algeria).
 
-## Skills
-- Programming: C, C++, C# , php , laravel , dart ; flutter
-- Desktop Application Development**: Building functional applications with user interfaces across different platforms
-- Mobile Application Development**: Building functional applications with Flutter and laravel framework
-- Databases: MySQL
+🌐 **Live site:** https://your-username.github.io
 
-## Education
-- Bachelor's in Computer Science (3rd Year) – University of science and technology Houari Boumediene (USTHB)
+## About
+
+This site presents my background, research, projects, and skills in Artificial Intelligence, Machine Learning, and software development (Flutter, Laravel, REST APIs).
+
+Sections:
+
+- About me
+- Curriculum vitae and profile links
+- Scientific research
+- Projects
+- Experience
+- Skills and languages
+
+## Project structure
+
+```
+your-username.github.io/
+├── index.html      # The whole website (HTML + CSS in one file)
+├── CV.pdf          # My CV
+├── images/
+│   └── photo.jpg   # Profile picture
+└── README.md
+```
+
+## Run it locally
+
+No build step or dependencies are needed.
+
+```bash
+git clone https://github.com/your-username/your-username.github.io.git
+cd your-username.github.io
+```
+
+Then open `index.html` in your browser.
+
+## Deploy on GitHub Pages
+
+1. Create a public repository named exactly `your-username.github.io`.
+2. Push these files to the `main` branch.
+3. Go to **Settings → Pages**.
+4. Under **Build and deployment**, choose **Deploy from a branch**, select `main` and `/ (root)`, then save.
+5. After a minute or two, the site is live at `https://your-username.github.io`.
+
+## Customize
+
+- Edit the text directly in `index.html`.
+- Replace `images/photo.jpg` with your own photo (a square image works best).
+- Update the LinkedIn, GitHub, and email links.
+- Change the banner colors in the `.page-header` rule (`linear-gradient(120deg, #155799, #159957)`).
+
+## Credits
+
+The layout is inspired by the GitHub Pages "Cayman" theme and the personal page of Sami Belkacem. All content is my own.
 
 ## Contact
-- GitHub: https://github.com/Mohameedmn
-- LinkedIn: https://www.linkedin.com/in/mansouri-mohamed-913069318/
-- Email: mohamed.mansouri0906@gmail.com
 
-
-<!---
-Mohameedmn/Mohameedmn is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+- Email: your-email@example.com
+- LinkedIn: https://www.linkedin.com/in/your-profile
+- GitHub: https://github.com/your-username
