@@ -2,7 +2,7 @@
 
 Personal portfolio website of **Mohamed Mansouri**, Master's student in Intelligent Computer Systems at USTHB (Algiers, Algeria).
 
-🌐 **Live site:** https://your-username.github.io
+🌐 **Live site:** https://Mohameedmn.github.io
 
 ## About
 
@@ -22,7 +22,7 @@ Sections:
 ```
 your-username.github.io/
 ├── index.html      # The whole website (HTML + CSS in one file)
-├── CV.pdf          # My CV
+├── CV-2026.pdf          # My CV
 ├── images/
 │   └── photo.jpg   # Profile picture
 └── README.md
